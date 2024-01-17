@@ -134,15 +134,16 @@ header nav.menu-desktop ul li {
     font-size: 20px;
     font-weight: 400;
     display: block;
+    padding: 10px 4%;
 }
 
 .menu-mobile nav ul li a:hover {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 500;
     padding: 10px 4%;
-    transform: scale(1.08);
-    transition: .15s;
-    color: #000;
+    transform: scale(1.05);
+    transition: .25s;
+    color: #DABA00;
 }
 
 .overlay-menu {
