@@ -409,7 +409,6 @@ div .btn-contact {
 
 div .btn-contact input {
     padding: 8px 35px;
-    /* width: 140px; */
     font-size: 20px;
     font-weight: 700;
     background-color: #BEC290;
@@ -486,10 +485,6 @@ footer .btn-social {
     .flex {
         flex-direction: column;
     }
-
-    /* header nav ul li {
-        padding: 20px 8%;
-    } */
 
     .txt-sobre {
         text-align: center;
@@ -580,7 +575,6 @@ footer .btn-social {
 
     section.formulario .btn-contact input {
         font-size: 20px;
-        /* width: 160px; */
     }
 
     .topo-do-site .img-topo-do-site img {
